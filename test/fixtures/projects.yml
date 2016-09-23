@@ -1,9 +1,9 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  name: 
-  url: 
+  name: Ice Man
+  url: http://test.com
 
 two:
-  name: 
-  url: 
+  name: Tero swift
+  url: http://test2.com

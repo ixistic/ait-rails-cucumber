@@ -1,9 +1,9 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  studentid: MyString
-  name: MyString
+  studentid: 118802
+  name: Werapat
 
 two:
-  studentid: MyString
-  name: MyString
+  studentid: 118803
+  name: Threerawipark
